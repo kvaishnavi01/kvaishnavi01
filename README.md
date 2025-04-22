@@ -6,7 +6,7 @@
 </p>
 
 # 💫 About Me:
-🧠 About Me:<br>👨‍💻 Full-time bug creator, part-time debugger.<br>🚀 Currently learning Java: Fullstack, Python, DSA just so I can forget it next week.<br>🐛 Debugging level: 99% confusion, 1% luck.<br>📫 How to reach me: kamathvaishnavi01@gmail.com
+<br>👨‍💻 Full-time bug creator, part-time debugger.<br>🚀 Currently learning Java: Fullstack, Python, DSA just so I can forget it next week.<br>🐛 Debugging level: 99% confusion, 1% luck.<br>📫 How to reach me: kamathvaishnavi01@gmail.com
 
 
 # 💻 Tech Stack:
