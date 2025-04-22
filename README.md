@@ -8,11 +8,12 @@
 
 - 👨‍💻 Full-time bug creator, part-time debugger.  
 - 🚀 Currently learning Java: Fullstack, Python, DSA just so I can forget it next week.  
-- 🐛 Debugging level: 99% confusion, 1% luck.  
+- 🐛 Debugging level: 99% confusion, 1% luck.
+  
 - 🛠️ Tech Stack:  
   **`Java` `JavaScript` `React` `SQL` `Python`**  
   *Also fluent in Stack Overflow and Googling errors.*  
-- 📫 How to reach me: **kamathvaishnavi01@gmail.com**
+
 
 - 📫 How to reach me **kamathvaishnavi01@gmail.com**
 
