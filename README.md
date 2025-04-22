@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi, I'm Vaishnavi Kamath!
-  <img src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" width="60" align="right"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" width="60" align="right"/>
 </h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
