@@ -3,14 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvaishnavi01&label=Profile%20views&color=0e75b6&style=flat" alt="kvaishnavi01" /> </p>
 
+
 <h3 align="left">🧠 About Me:</h3>
-- 👨‍💻 Full-time bug creator, part-time debugger.
-- 🚀 Currently learning Java: Fullstack, Python, DSA just so I can forget it next week.
-- 🐛 Debugging level: 99% confusion, 1% luck.**
 
-
-- 🛠️ Tech Stack
-- **`Java` `JavaScript` `React` `SQL` `Python` *Also fluent in Stack Overflow and Googling errors.***
+- 👨‍💻 Full-time bug creator, part-time debugger.  
+- 🚀 Currently learning Java: Fullstack, Python, DSA just so I can forget it next week.  
+- 🐛 Debugging level: 99% confusion, 1% luck.  
+- 🛠️ Tech Stack:  
+  **`Java` `JavaScript` `React` `SQL` `Python`**  
+  *Also fluent in Stack Overflow and Googling errors.*  
+- 📫 How to reach me: **kamathvaishnavi01@gmail.com**
 
 - 📫 How to reach me **kamathvaishnavi01@gmail.com**
 
