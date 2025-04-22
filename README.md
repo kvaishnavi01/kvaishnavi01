@@ -1,10 +1,7 @@
 <h1 align="center">
   Hi, I'm Vaishnavi Kamath!
+  <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" width="50" align="right"/>
 </h1>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" width="200"/>
-</div>
 
 <h3 align="center">A passionate fullstack developer from India</h3>
 
@@ -58,6 +55,6 @@
 
 ### 🎮 Just for Fun:
 
-<div align="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500"/>
-</div>
+</p>
